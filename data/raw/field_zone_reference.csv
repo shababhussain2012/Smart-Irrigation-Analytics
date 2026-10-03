@@ -1,0 +1,5 @@
+﻿Field_Zone,Crop_Type,Planting_Date,Field_Area_sqm,Irrigation_Type,Optimal_Soil_Moisture_Min,Optimal_Soil_Moisture_Max,Sensor_Count
+Zone A,Tomato,15/02/2026,2500,Drip,60,80,3
+Zone B,Cucumber,20/02/2026,3000,Drip,55,75,3
+Zone C,Date Palm,01/11/2025,5000,Sprinkler,30,50,3
+Zone D,Lettuce,01/03/2026,1800,Drip,65,85,3
