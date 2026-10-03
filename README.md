@@ -85,8 +85,6 @@ Full breakdown of every issue's exact count is in `excel/audit_findings.md`.
 
 ```
 smart-irrigation-analytics/
-├── .gitignore
-├── README.md
 ├── data/
 │   ├── raw/
 │   │   ├── sensor_readings_raw.csv
@@ -102,6 +100,9 @@ smart-irrigation-analytics/
 └── powerbi/
     ├── Smart_Irrigation_Dashboard.pbix
     └── dashboard_preview.png
+├── .gitignore
+├── LICENSE
+├── README.md
 ```
 
 ## About
