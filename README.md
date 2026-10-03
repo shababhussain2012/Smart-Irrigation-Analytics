@@ -79,7 +79,7 @@ Full breakdown of every issue's exact count is in `excel/audit_findings.md`.
 2. Raw data: `data/raw/`
 3. `excel/data_audit.xlsx` — Power Query audit (open in Excel; findings summarized in `excel/audit_findings.md`)
 4. `notebooks/01_data_cleaning_and_eda.py` — full cleaning pipeline → outputs `data/cleaned/sensor_readings_clean.csv`
-5. `powerbi/Smart_Irrigation_Dashboard.pbix` in Power BI Desktop (or view the published report: *[link]*)
+5. `powerbi/Smart_Irrigation_Dashboard.pbix` in Power BI Desktop
 
 ## Repo Structure
 
